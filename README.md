@@ -1,7 +1,5 @@
-dojo_21-05-2014
+Coding Dojo de Java
 ===============
-
-Coding Dojo em Java
 
 Problema Resolvido 
 
